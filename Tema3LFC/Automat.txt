@@ -1,0 +1,9 @@
+
+0
+abc
+SAC
+d
+0
+S
+_
+0_S _ 0_A _ 0_C _ 0aS 0A 0aA _ 0aC _ 0bS _ 0bA 0ACC0CC 0bC _ 0cS _ 0cA _ 0cC 0_
